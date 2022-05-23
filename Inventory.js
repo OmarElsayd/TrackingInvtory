@@ -25,8 +25,10 @@ function Insert(){
         if (GetStatus == "Deliverd")
         {
             Deliverd ++
-        elseif (GetStatus == "In Transit" || "InTransit")
-            InTransit =+ 1
+        else if (GetStatus == "In Transit" || "InTransit") 
+            InTransit ++ 1
 
+        }
+    }
 }
 // will continue in the future 
