@@ -46,4 +46,5 @@ once the order is delivered and you want to delete it, simply type done 4 and yo
 ### It will ask you for the tracking number again so it search for the order, once it is found, you will be able delete by simply typing "Yes"
 
 
+https://www.loom.com/share/84800e6adf304d3f878175d8eee97e49
 
