@@ -1,4 +1,4 @@
-# Tracking Inventory program
+# Tracking program
 
 
 This project is a simple app for tracking orders and inventory. The program is pretty simple where we have 4 functions, these functions are view, insert, update,
@@ -13,7 +13,7 @@ Simply to run the program, just click on run in replit and you should see that
 
 ### Note: This program does not end until you press on Ctrl + C
 
-# View Inventory
+# View Orders
 
 To start off! if you want to view orders, simply type in number 1 and you should see something like that. (All the orders with all the information included)
 
